@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map otto
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+otto	KEYWORD1	otto
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+otto_MotorInit	KEYWORD2
+otto_UBInit	KEYWORD2
+forward	KEYWORD2
+back	KEYWORD2
+Home	KEYWORD2
+tiptoe	KEYWORD2
+Step	KEYWORD2
+traverseLeft	KEYWORD2
+traverseRight	KEYWORD2
+turnLeft	KEYWORD2
+turnRight	KEYWORD2
+PhoneVoice	KEYWORD2
+ultrasonic	KEYWORD2
+ultrasonicRead	KEYWORD2
+policeVoice	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
